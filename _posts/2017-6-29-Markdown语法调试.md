@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 category : lessons
 tagline: "Supporting tagline"
 tags : [markdown, blog, debug]
