@@ -27,9 +27,16 @@ tags : [markdown, blog, debug]
 - [X] this is an incomplete item
 
 
-    代码行：test
-    测试
-    TEST
+In `_config.yml` remember to specify your own data:
+    
+    title : My Blog =)
+    
+    author :
+      name : Name Lastname
+      email : blah@email.test
+      github : username
+      twitter : username
+
     
     
 ```
