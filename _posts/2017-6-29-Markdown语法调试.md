@@ -16,9 +16,9 @@ tags : [markdown, blog, debug]
 
 
 
--[] 任务1  
--[] 任务2  
--[X] 任务3  
+- [] 任务1  
+- [] 任务2  
+- [X] 任务3  
 
 
 - [x] @mentions, #refs, [links](), **formatting**, and <del>tags</del> supported
