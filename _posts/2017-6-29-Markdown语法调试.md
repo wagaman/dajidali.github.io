@@ -5,6 +5,8 @@ tagline: "Supporting tagline"
 tags : [markdown, blog, debug]
 ---
 
+{% include JB/setup %}
+
 # 基本标签
 
 # 标题1
