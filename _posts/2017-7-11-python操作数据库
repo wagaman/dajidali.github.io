@@ -1,0 +1,16 @@
+```
+import pymysql
+
+connect = pymysql.Connect(
+    host='rm-uf6afabwo005nss2ro.mysql.rds.aliyuncs.com',
+    port=3306,
+    user='root',
+    passwd='xxxx',
+    db='yellow',
+    charset='utf8'
+)
+cursor = connect.cursor()
+sql = "SELECT * FROM worker"
+cursor.execute(sql)
+
+```
